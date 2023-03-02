@@ -7,6 +7,7 @@ GET http://localhost:3000/cricket_team/1/
 ###
 
 POST http://localhost:3000/cricket_team/
+
 Content-Type: application/json
 
 {
@@ -18,6 +19,7 @@ Content-Type: application/json
 ###
 
 PUT http://localhost:3000/cricket_team/3/
+
 Content-Type: application/json
 
 {
